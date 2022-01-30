@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋 this is Pouya
 
+[![pouyaardehkhani github stats](https://github-readme-stats.vercel.app/api?username=pouyaardehkhani&show_icons=true&theme=tokyonight)](https://github.com/pouyaardehkhani)
 <!--
 **pouyaardehkhani/PouyaArdehkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
