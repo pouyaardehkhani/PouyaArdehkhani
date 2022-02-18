@@ -1,6 +1,8 @@
 # Hi there 👋 this is Pouya
 
 [![pouyaardehkhani github stats](https://github-readme-stats.vercel.app/api?username=pouyaardehkhani&show_icons=true&theme=tokyonight)](https://github.com/pouyaardehkhani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouyaardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/pouyaardehkhani)
+
 
 ## About me
 First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Throughout high school, I learned python through videos and any book I could find. I was insatiable.
