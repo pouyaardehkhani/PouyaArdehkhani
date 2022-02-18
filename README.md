@@ -1,4 +1,4 @@
-# Hi there 👋 this is Pouya
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> this is Pouya
 
 [![pouyaardehkhani github stats](https://github-readme-stats.vercel.app/api?username=pouyaardehkhani&show_icons=true&theme=tokyonight)](https://github.com/pouyaardehkhani)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouyaardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/pouyaardehkhani)
@@ -13,20 +13,43 @@ So, now, I'm focusing on learning more about **artificial intelligence**. there 
 
 Thanks for your time and attention.
 
-Pouya Ardehkhani
-
 <img src="https://github.com/pouyaardehkhani/PouyaArdehkhani/blob/main/signature.png" width="300">
 
-## What I know
-<img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="32">
-<img src="https://zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png" width="34">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png" width="50">
-<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="32">
+## 🛠️ Skills
 
-## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/Pouya_ardehkhani) [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://www.linkedin.com/in/pouya-ardehkhani) [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/PouyaA08879851) [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" width="60">](https://www.kaggle.com/pouyaardehkhani) 
+### Languages
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-E5732C?style=for-the-badge&logo=Matlab&logoColor=white)
+
+### Tools
+![Tableau](https://img.shields.io/badge/Tableau-00ADD8?style=for-the-badge&logo=Tableau&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-05648B?style=for-the-badge&logo=octave&logoColor=white)
+
+### Other
+![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-218604?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+## 🖥️ Workspace Setup
+![i3-10th-gen](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![mx-110](https://img.shields.io/badge/NVIDIA-mx_110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 📈 Stats
+<img src="https://github-profile-trophy.vercel.app/?username=pouyaardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+
+## 🔗 Links
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pouya-ardehkhani)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pouyaardehkhani)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PouyaA08879851)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/pouyaardehkhani)
+[![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pouya_ardehkhani)
+[![ms-outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](pouya.ardehkhani@outlook.com)
+[![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pouyaardehkhani)
 
 
 <!--
