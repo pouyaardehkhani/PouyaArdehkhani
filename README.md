@@ -11,6 +11,12 @@ This passion is still with me through my education at university of tehran. Here
 
 So, now, I'm focusing on learning more about **artificial intelligence**. there is yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
+Thanks for your time and attention.
+
+Pouya Ardehkhani
+
+<img src="https://drive.google.com/file/d/1vqtnonwCD0iDhXae9pbEfyuSTCldgwfN/view?usp=sharing" width="32">
+
 ## What I know
 <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="32">
