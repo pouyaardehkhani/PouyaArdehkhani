@@ -41,7 +41,7 @@ Thanks for your time and attention.
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 Stats
-
+<img src="https://github-profile-trophy.vercel.app/?username=pouyaardehkhani&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pouya-ardehkhani)
