@@ -49,7 +49,7 @@ Thanks for your time and attention.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PouyaA08879851)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/pouyaardehkhani)
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pouya_ardehkhani)
-[![ms-outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](pouya.ardehkhani@outlook.com)
+[![ms-outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pouya.ardehkhani@outlook.com)
 [![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pouyaardehkhani)
 
 
