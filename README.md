@@ -29,6 +29,7 @@ Thanks for your time and attention.
 ### Tools
 ![Tableau](https://img.shields.io/badge/Tableau-00ADD8?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-05648B?style=for-the-badge&logo=octave&logoColor=white)
+![JMP](https://img.shields.io/badge/jmp-3370F9?style=for-the-badge&logo=jmp&logoColor=white)
 
 ### Other
 ![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
