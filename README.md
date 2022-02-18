@@ -13,7 +13,7 @@ So, now, I'm focusing on learning more about **artificial intelligence**. there 
 
 Thanks for your time and attention.
 
-<img src="https://github.com/pouyaardehkhani/PouyaArdehkhani/blob/main/signature.png" width="300">
+<img src="https://github.com/pouyaardehkhani/PouyaArdehkhani/blob/master/signature.png" width="300">
 
 ## 🛠️ Skills
 
