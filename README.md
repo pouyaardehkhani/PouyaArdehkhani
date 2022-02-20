@@ -7,9 +7,9 @@
 ## About me
 First and foremost, I love writing code. I still remember the first time I wrote something in a programming language. It was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Throughout high school, I learned python through videos and any book I could find. I was insatiable.
 
-This passion is still with me through my education at university of tehran. Here there are more resources available for me than I ever imagined as a kid. I studied new programming languages, algorithms, higher mathematics, And it was here that I learned truly how much there was yet to learn.
+This passion is still with me through my education at University of Tehran. I studied new programming languages, algorithms, higher mathematics, and it was here that I learned truly how much there was yet to learn.
 
-So, now, I'm focusing on learning more about **artificial intelligence**. there is yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
+So, now I'm focusing on learning more about **artificial intelligence**. There is yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
 Thanks for your time and attention.
 
