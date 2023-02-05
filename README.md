@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> this is Pouya
 
-[![pouyaardehkhani github stats](https://github-readme-stats.vercel.app/api?username=PouyaArdehkhani&theme=blue-green)](https://github.com/pouyaardehkhani)
+[![pouyaardehkhani github stats](https://github-readme-stats.vercel.app/api?username=PouyaArdehkhani&theme=highcontrast&show-icons=true&hide=prs,issues)](https://github.com/pouyaardehkhani)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouyaardehkhani&layout=compact&langs_count=10&theme=tokyonight&hide=html,css)](https://github.com/pouyaardehkhani)
 
 
