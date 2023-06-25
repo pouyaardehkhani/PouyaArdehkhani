@@ -61,6 +61,7 @@ Thanks for your time and attention.
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pouya_ardehkhani)
 [![ms-outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pouya.ardehkhani@outlook.com)
 [![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pouyaardehkhani)
+[![Scholar](	https://img.shields.io/badge/Scholar-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://scholar.google.com/citations?hl=en&user=hQ3Y_IkAAAAJ&view_op=list_works&citft=1&citft=2&email_for_op=apouyas120%40gmail.com&gmla=AHoSzlWxpSIzJJuPeK4dBfjJThQSc6YrnhJay8zIJabKN_dDRGntBeYf7lBu6rv-zzyEFlNxkZnsgQ7dyw1DmbRa_p9dXjU2VPU3QbOZzjFvHrD_6_akC_qJh-AKmMPJs9W0X39EQMdxNhRbP4Gn_5jM-ZON-skfucUWiv2VO1yDdt8FzKTl1R2Gq3R3VW2Z8v5DV2cChULnlpPC9B2Cvgs0f2Oe8K9WEZj4IKU4grOx3aG0)
 
 
 <!--
