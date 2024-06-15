@@ -46,8 +46,8 @@ Thanks for your time and attention.
 ![LaTeX](https://img.shields.io/badge/LaTeX-218604?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 🖥️ Workspace Setup
-![i3-10th-gen](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![mx-110](https://img.shields.io/badge/NVIDIA-mx_110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![i5-12th-gen](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RTX 3050 TI](https://img.shields.io/badge/NVIDIA-mx_110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 Stats
